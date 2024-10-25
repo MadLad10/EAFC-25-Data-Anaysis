@@ -1,10 +1,10 @@
 # EAFC-25-Data-Anaysis
 Author: Yaad Kamrul Bari
 
-This project analyzes player statistics from the EAFC dataset (sourced from Kaggle) to provide insights into team and player attributes, with a focus on average ratings and speeds, as well as key attributes by position.
+This project analyzes player statistics from the EAFC 25 dataset (sourced from Kaggle) to provide insights into team and player attributes, with a focus on average ratings and speeds, as well as key attributes by position.
 
 Dataset:
-The dataset was obtained from Kaggle and includes extensive statistics on players in EAFC. The data was cleaned to remove unnecessary columns, leaving only relevant attributes for analysis.
+The dataset was obtained from Kaggle and includes extensive statistics on players in EAFC 25. The data was cleaned to remove unnecessary columns, leaving only relevant attributes for analysis.
 
 Project Structure:
 The project consists of four main analyses:
@@ -19,4 +19,4 @@ The project consists of four main analyses:
    -Computes the average speed for different positions, providing insight into the speed characteristics typical of each role.
    
 4. Key Attributes for Various Football Positions:
-   -Highlights the importance of specific attributes (e.g., PAC, SHO, PAS) for different positions to understand what makes a player effective in each role.
+   -Highlights the importance of specific attributes (e.g., PAC, SHO, PAS) for different positions to understand what makes a player effective       in each role.
